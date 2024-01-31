@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/* No body temos o fundo colorido e a cor das fontes em preto*/
+body {
+    background-color: rgb(146, 233, 207);
+    color: rgb(0, 0, 0);
+     }
+
+/* Já aqui temos os parágrafos editados com css*/
+  p {
+    text-align: justify;
+    text-indent: 30px;
+    }
+
+  /* Formatação de imagens com legenda*/
+  figure.foto-legenda {
+    border: 8px solid rgb(255, 255, 255); 
+    box-shadow: 1px 1px 4px black; 
+  }
+
+  figure.foto-legenda img {
+width: 100%;
+height: 100%;
+  }
