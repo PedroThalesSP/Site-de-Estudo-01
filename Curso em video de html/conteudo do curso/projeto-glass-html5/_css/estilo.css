@@ -1,6 +1,6 @@
 @charset "UTF-8";
 
-/* No body temos o fundo colorido e a cor das fontes em preto*/
+/* No body temos o fundo colorido e a cor das fontes em preto.*/
 body {
     background-color: rgb(146, 233, 207);
     color: rgb(0, 0, 0);
